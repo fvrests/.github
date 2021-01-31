@@ -16,7 +16,7 @@ We welcome and appreciate both code and non-code contributions, including:
 - Feature requests
 - Opinions & suggestions
 
-Even the smallest changes can help free up our time for general maintenance and promote a positive, functional and accessible experience for all ✨
+Even the smallest changes can help free up our time for general maintenance and promote a positive, functional and accessible experience for everyone ✨
 
 ## Bug reports & feature requests
 
@@ -61,4 +61,4 @@ We can't guarantee issues will be resolved right away, but we deeply appreciate 
 
 ## Thanks
 
-- Thank you for your support & happy contributing! 🌸
+Thank you for your support & happy contributing! 🌸
